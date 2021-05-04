@@ -1,0 +1,26 @@
+.bulb{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+}
+
+img{
+    width: 330px;
+    height: 600px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    letter-spacing: 3px;
+    width: 200px;
+    height: 60px;
+    border: 2px solid wheat;
+    border-radius: 20px;
+}
