@@ -1,0 +1,24 @@
+input{
+    margin-bottom: 2%;
+    width: 200px;
+    height: 20px;
+}
+
+button{
+    background-color: red;
+    color: white;
+    height: 40px;
+    width: 80px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.main{
+    position: relative;
+    top: 10%;
+    left: 30%;
+    display: flex;
+    flex-direction: column;
+}
